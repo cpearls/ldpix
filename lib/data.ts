@@ -54,7 +54,7 @@ import imgShow30759 from "@/public/ts/Tradesatoshi-Trading-Terminal-Light.png";
 import imgShow30762 from "@/public/skyrus/Skyrus-Markets-Overview.png";
 import imgShow30764 from "@/public/evobit/evobit_4.png";
 import imgShow30766 from "@/public/ceui/ceui_8.png";
-import imgShow32581 from "@/public/azbit/AzBit_Account_Security.png";
+import imgShow32581 from "@/public/azbit/azbit_account_security.png";
 import imgShow32586 from "@/public/ceui/ceui_4.png";
 import imgShow32613 from "@/public/blackmoon/bm_2.png";
 import imgShow32619 from "@/public/skyrus/image_processing20190820-17049-a3i7yy.png";
