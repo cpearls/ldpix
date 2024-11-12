@@ -32,6 +32,7 @@ export default function Home() {
               duration: 0.2,
             }}
           >
+          {/* </motion.div> */}
           </motion.div>
 
           <motion.span
