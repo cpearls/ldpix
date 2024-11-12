@@ -8,7 +8,7 @@ import portfolioImg1 from "@/public/azbit/az_home_21.png";
 import portfolioImg2 from "@/public/azbit/Azbit-Exchange.png";
 import portfolioImg3 from "@/public/azbit/AzBit-Markets-Overview.png";
 import portfolioImg4 from "@/public/azbit/AzBit-Affiliate-Center.png";
-import portfolioImg5 from "@/public/azbit/Azbit-Account-Security.png";
+import portfolioImg5 from "@/public/azbit/Azbit_Account_Security.png";
 import portfolioImg6 from "@/public/azbit/Azbit-Account-Overview.png";
 
 
